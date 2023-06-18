@@ -12,6 +12,7 @@
   </properties>
 
   <build>
+    <finalName>Exercisies-Project-Initializr</finalName>
     <plugins>
       <plugin>
         <groupId>org.apache.maven.plugins</groupId>
@@ -21,7 +22,7 @@
             <index>true</index>
             <manifest>
               <addClasspath>true</addClasspath>
-              <mainClass>exercicios.ExerciciosApplication</mainClass>
+              <mainClass>exercisios.ExercisiosApplication</mainClass>
             </manifest>
           </archive>
         </configuration>
