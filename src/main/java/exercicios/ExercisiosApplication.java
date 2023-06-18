@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Optional;
 
-public class ExerciciosApplication {
+public class ExercisiosApplication {
     private static void help() {
         List<String> helpList = Arrays.asList(
                 ""
