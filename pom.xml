@@ -22,7 +22,7 @@
             <index>true</index>
             <manifest>
               <addClasspath>true</addClasspath>
-              <mainClass>exercisios.ExercisiosApplication</mainClass>
+              <mainClass>exercisies.ExercisiesApplication</mainClass>
             </manifest>
           </archive>
         </configuration>
@@ -51,6 +51,12 @@
         <groupId>org.seleniumhq.selenium</groupId>
         <artifactId>selenium-java</artifactId>
         <version>4.10.0</version>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok-maven-plugin -->
+    <dependency>
+      <groupId>org.projectlombok</groupId>
+      <artifactId>lombok-maven-plugin</artifactId>
+      <version>1.18.20.0</version>
     </dependency>
   </dependencies>
 </project>
