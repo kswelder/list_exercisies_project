@@ -1,6 +1,6 @@
 ## Exercisies Project
 
-This project helps beginners to init into programming
+This project helps beginners to init into programming.
 
 Init folders and subfolders with a list of challenges in programming languages:
 
@@ -30,7 +30,7 @@ Command:
 ```
 
 ## How to use
-Use terminal this command to init your project and init your learn
+Use terminal this command to init your project and init your learn.
 
 ```
     java -jar Exercisies-Project-Initializr.jar
@@ -42,3 +42,13 @@ commands:
     --help
     --path
     --language
+
+## No implements
+
+    --path
+    --language
+
+## Considerations
+If your run this package you don't need set args in the initialization.
+
+This program has a pos set configuration if you don't initialize for default.
